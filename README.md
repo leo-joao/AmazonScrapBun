@@ -1,4 +1,4 @@
-# bun
+# Bun Amazon Product Scrapper
 
 This Amazon Products Scrapper was done using Bun.
 It was my first time ever using Bun and TypeScript and I was amazed by how fast (and kinda simple) it is.

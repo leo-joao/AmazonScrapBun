@@ -1,4 +1,4 @@
-# bun
+# Bun Amazon Product Scrapper
 
 To install dependencies:
 
